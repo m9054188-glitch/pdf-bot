@@ -1,5 +1,5 @@
 aiogram==3.4.1
-PyMuPDF>=1.24.10
+python-3.11.8
 deep-translator==1.11.4
 arabic-reshaper==3.0.0
 python-3.11.8
