@@ -1,5 +1,4 @@
 aiogram==3.4.1
 deep-translator==1.11.4
 arabic-reshaper==3.0.0
-PyMuPDF
-
+pypdf
